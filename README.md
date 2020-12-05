@@ -13,7 +13,7 @@ Run the server using `node server`
 
 *The server will look for a PORT environment variable to run on. If one is not provided, it will default to 3000*
 
-##Endpoint
+## Endpoint
 `/platform/battletag/`  
 
 | Platform      			| Syntax         |
